@@ -1,0 +1,12 @@
+{
+  "name": "discord-ai-coding-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "adm-zip": "^0.5.10"
+  }
+}
